@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-11-10",
+  "policy": "Somente caminhos gratuitos para busca e candidatura; sem assinaturas, taxas ou trials com cobrança. Revalidar em cada uso.",
+  "sources": [
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "entry_url": "https://www.linkedin.com/jobs/",
+      "official_domain": "linkedin.com",
+      "enabled": true,
+      "busca_gratuita": true,
+      "candidatura_gratuita": true,
+      "free_scope": "Anúncios públicos e funções básicas gratuitas; sem Premium.",
+      "account_requirement": "Conta pode ser necessária para candidatura.",
+      "eligibility_rule": "Confirmar país/região elegível no anúncio individual e no destino oficial.",
+      "cost_evidence_url": "https://www.linkedin.com/help/linkedin/answer/a545596",
+      "last_checked": "2026-11-10"
+    },
+    {
+      "id": "indeed",
+      "name": "Indeed",
+      "entry_url": "https://br.indeed.com/",
+      "official_domain": "indeed.com",
+      "enabled": true,
+      "busca_gratuita": true,
+      "candidatura_gratuita": true,
+      "free_scope": "Busca e candidatura de pessoas candidatas; conferir ATS externo.",
+      "account_requirement": "Conta pode ser necessária conforme o fluxo.",
+      "eligibility_rule": "Confirmar país/região elegível no anúncio individual e no destino oficial.",
+      "cost_evidence_url": "https://www.indeed.com/help/job-seekers/articles/115002786323-about-jobs-on-indeed-what-you-need-to-know?co=IN&hl=en",
+      "last_checked": "2026-11-10"
+    },
+    {
+      "id": "working-nomads",
+      "name": "Working Nomads",
+      "entry_url": "https://www.workingnomads.com/jobs",
+      "official_domain": "workingnomads.com",
+      "enabled": true,
+      "busca_gratuita": true,
+      "candidatura_gratuita": true,
+      "free_scope": "Somente listagem pública gratuita e candidatura gratuita no destino; sem Premium.",
+      "account_requirement": "Depende do ATS de destino.",
+      "eligibility_rule": "Confirmar país/região elegível no anúncio individual e no destino oficial.",
+      "cost_evidence_url": "https://www.workingnomads.com/terms-and-conditions",
+      "last_checked": "2026-11-10"
+    }
+  ]
+}
