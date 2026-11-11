@@ -44,6 +44,35 @@
       "eligibility_rule": "Confirmar país/região elegível no anúncio individual e no destino oficial.",
       "cost_evidence_url": "https://www.workingnomads.com/terms-and-conditions",
       "last_checked": "2026-11-10"
+    },
+    {
+      "id": "we-work-remotely",
+      "name": "We Work Remotely",
+      "entry_url": "https://weworkremotely.com/",
+      "official_domain": "weworkremotely.com",
+      "enabled": true,
+      "busca_gratuita": true,
+      "candidatura_gratuita": true,
+      "free_scope": "Consultar anúncios acessíveis gratuitamente e usar apenas candidaturas sem assinatura, como Boosted Jobs ou destino oficial gratuito. Excluir fluxos Pro/TopAccess, cobranças e trials com cobrança futura.",
+      "account_requirement": "Conta gratuita pode ser necessária; não contratar plano pago.",
+      "eligibility_rule": "Confirmar Brasil/LATAM ou elegibilidade global compatível no anúncio individual; Remote isolado não basta.",
+      "cost_evidence_url": "https://weworkremotely.com/frequently-asked-questions",
+      "last_checked": "2026-11-10"
+    },
+    {
+      "id": "talentsjobs",
+      "name": "TalentsJobs",
+      "entry_url": "https://talentsjobs.in/software-development-pvt-lmt-0-to-5-years-213725?key_word=Software+Development",
+      "official_domain": "talentsjobs.in",
+      "enabled": true,
+      "busca_gratuita": true,
+      "candidatura_gratuita": true,
+      "free_scope": "Usar somente consulta e candidatura gratuitas, conforme confirmação da mantenedora. Validar cada anúncio e destino; interromper o caminho se houver cobrança.",
+      "account_requirement": "Conta gratuita pode ser necessária conforme o anúncio; validar o fluxo.",
+      "eligibility_rule": "Para perfis Brasil/LATAM, exigir menção explícita a Brasil ou América Latina em cada anúncio remoto. Descartar vagas limitadas à Índia ou regiões incompatíveis. A entrada não é uma vaga previamente aprovada.",
+      "cost_evidence_url": "https://talentsjobs.in/software-development-pvt-lmt-0-to-5-years-213725?key_word=Software+Development",
+      "cost_evidence_note": "Gratuidade informada pela mantenedora Luciana nesta conversa em 10/11/2026; o link é o ponto de entrada, não comprovação independente do fluxo completo.",
+      "last_checked": "2026-11-10"
     }
   ]
 }
